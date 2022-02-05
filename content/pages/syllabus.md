@@ -39,25 +39,198 @@ Laptop policy: You should feel free to use laptops in class (though not, of cour
 Approximate Schedule
 --------------------
 
-| Session # | Lecture notes |
-| --- | --- |
-| 1 | Phonetics 1 |
-| 2–3 | Phonetics 2 |
-| 4 | Phonology 1 |
-| 5 | Phonology 2 |
-| 6 | Klingon, etc. |
-| 7 | Morphology |
-| 8 | Case |
-| 9–10 | Transitivity |
-| 11–12 | Agreement |
-| 13–14 | Word Order |
-| 15–16 | Embedded Clauses |
-| 17 | Questions |
-| 18 | Word Order 2 |
-| 19 | Giving, Having |
-| 20 | Discourse Particles |
-| 21 | Kinship Terminology |
-| 22 | Colors, Numbers |
-| 23–24 | Writing Systems |
-| 25 | Historical Linguistics |
-| 26 | Language Games, Honorifics, etc.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Session #
+{{< thclose >}}
+{{< thopen >}}
+Lecture notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Phonetics 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–3
+{{< tdclose >}}
+{{< tdopen >}}
+Phonetics 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Phonology 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Phonology 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Klingon, etc.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Morphology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Case
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9–10
+{{< tdclose >}}
+{{< tdopen >}}
+Transitivity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11–12
+{{< tdclose >}}
+{{< tdopen >}}
+Agreement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13–14
+{{< tdclose >}}
+{{< tdopen >}}
+Word Order
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15–16
+{{< tdclose >}}
+{{< tdopen >}}
+Embedded Clauses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Questions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Word Order 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Giving, Having
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Discourse Particles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Kinship Terminology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Colors, Numbers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23–24
+{{< tdclose >}}
+{{< tdopen >}}
+Writing Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Historical Linguistics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Language Games, Honorifics, etc.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
